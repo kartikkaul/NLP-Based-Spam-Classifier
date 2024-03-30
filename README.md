@@ -1,4 +1,4 @@
-$Step-by-Step Report
+#Step-by-Step Report
 Introduction
 In the modern digital age, spam messages have become a pervasive issue, necessitating the development of sophisticated detection mechanisms. 
 This report outlines the development of a Spam Classifier using Natural Language Processing (NLP) techniques in Python. The classifier aims
